@@ -253,4 +253,4 @@ This repository serves as the official landing page for X-Moto. The software is 
 **Get the most recent version of X-Moto today!**
 
 ---
-**Last updated:** 2026-09-11 14:49:39 UTC
+**Last updated:** 2026-09-11 18:07:47 UTC
